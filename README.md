@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, I'm Md. Obaidul Islam
+#### Web Developer
+I am a Web Developer with over 1.5 years of experience. I have been honing my skills and expertise in Web Development and have worked on several projects using Laravel.
 
-<!--
-**obaidul-islam-safie/obaidul-islam-safie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My proficiency in Core PHP and PHP OOP features, practical experience with the Laravel framework, and a solid foundation in Laravel Eloquent ORM & Query Builder makes me a valuable asset to any team. I have experience working with Rest APIs, strong knowledge of MySQL, and a good grasp of HTML5, CSS3, and Bootstrap.
 
-Here are some ideas to get you started:
+Skills: LARAVEL / PHP-OOP / JS / AJAX / LIVEWIRE / REST-API / HTML / CSS / BOOTSTRAP / MY-SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning  React 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: Mailing Address: 13/খ Garden Road Kawran Bazar, Dhaka-1205 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ obaidul-islam-safie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/obaidul-islam-263619231/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdobaidul.islamsafie)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= obaidul-islam-safie)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username= obaidul-islam-safie&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username= obaidul-islam-safie)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user= obaidul-islam-safie)  
+
+![Profile views](https://gpvc.arturio.dev/ obaidul-islam-safie)  
