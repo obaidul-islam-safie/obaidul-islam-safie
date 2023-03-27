@@ -10,7 +10,9 @@ Skills: LARAVEL / PHP-OOP / JS / AJAX / LIVEWIRE / REST-API / HTML / CSS / BOOTS
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Mailing Address: 13/খ Garden Road Kawran Bazar, Dhaka-1205 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidul-islam-safie)](https://github.com/anuraghazra/github-readme-stats)](https://github.com/obaidul-islam-safie)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/obaidul-islam-safie)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidul-islam-safie)](https://github.com/anuraghazra/github-readme-stats)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidul-islam-safie&show_icons=true&count_private=true)  
 
