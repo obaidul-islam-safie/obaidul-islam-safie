@@ -6,9 +6,9 @@ My proficiency in Core PHP and PHP OOP features, practical experience with the L
 
 Skills-: LARAVEL / PHP-OOP / JS / AJAX / LIVEWIRE / REST-API /jQuery/ HTML / CSS / BOOTSTRAP / MY-SQL
 
-- 🌱 I’m currently learning  Vue.js 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Mailing Address: 13/kha Garden Road Kawran Bazar, Dhaka-1205 
+- 🌱 I’m currently learning Vue.js 
+- 💬 Ask me about Web Development.
+- 📫 How to reach me: Mailing Address: 13/kha Garden Road Kawran Bazar, Dhaka-1205
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidul-islam-safie&show_icons=true&count_private=true)  
 
